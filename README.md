@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **all about Web development**
 
-- 📝 I'm interested [in coding and learning recent programming languages. Additionally, I'm fascinated by traveling and exploring different cultures.](in coding and learning recent programming languages. Additionally, I'm fascinated by traveling and exploring different cultures.)
-
 - 📫 How to reach me **mariem.khadhraoui@esprit.tn**
+- 📝 I'm interested in coding and learning recent programming languages. Additionally, I'm fascinated by traveling and exploring different cultures.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
